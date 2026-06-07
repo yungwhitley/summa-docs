@@ -6,7 +6,7 @@ Served via GitHub Pages at https://yungwhitley.github.io/clearpath-docs/
 ## Contents
 
 - `privacy.html`: Privacy Policy
-- `terms.html`: Terms of Service *(coming soon)*
+- `terms.html`: Terms of Service
 - `index.html`: Landing page linking to the above
 
 ## Updating policies
